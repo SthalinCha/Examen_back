@@ -1,0 +1,22 @@
+{
+  "name": "deber_6_1_2025",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "mi primera ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssss",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^8.9.4",
+    "nodemon": "^3.1.9"
+  }
+}
